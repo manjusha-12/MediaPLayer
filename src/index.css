@@ -1,0 +1,14 @@
+
+*{
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+  font-family: "EB Garamond", serif;
+  font-optical-sizing: auto;
+  font-style: normal;
+}
+.head{
+  font-family: "Sedan SC", serif;
+  font-weight: 400;
+  font-style: normal;
+}
